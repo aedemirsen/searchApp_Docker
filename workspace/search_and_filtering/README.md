@@ -36,4 +36,4 @@ void initApp(BuildContext context) {
 }
 ```
 
-![](http://aedemirsen.bilgimeclisi.com/assets/sf.gif)
+![](http://aedemirsen.bilgimeclisi.com/assets/appGif.gif)
